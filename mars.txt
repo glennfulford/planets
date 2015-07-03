@@ -1,3 +1,5 @@
 Cold and dry, blah blah blah
 Here is some more
-Now is yet a a third line. 
+Now is yet a a third line.
+
+Now, here is a fifth line with the forth line blank.  
